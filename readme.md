@@ -1,3 +1,3 @@
 # Saib-User Interface
 
-![Landing page](/images/Screenshot_1632577626.png)
+<img src="/images/Screenshot_1632577626.png" alt="/images/Screenshot_1632577626.png" width="200"/>
